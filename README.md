@@ -1,6 +1,6 @@
 <p align="middle">
   <!-- <img src="assets/dots.png" width="200" /> -->
-  <img src="assets/screencap.png" />
+  <img src="assets/screencap.jpg" />
 </p>
 
 Blankeos Zen is my own personal, minimal, and frameless dark-theme inspired mostly by [poimandres](https://github.com/drcmda/poimandres-theme). Sometimes I don't feel the green in poimandres and wanted a bluer vibe to my editor. That's why I made this.
@@ -22,6 +22,8 @@ Blankeos Zen is my own personal, minimal, and frameless dark-theme inspired most
 ``` -->
 
 #### Development Requirements & Tips
+
+---
 
 - Use [Bun](bun.sh)
 - Install [`vsce`](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) (for packaging & publishing the extension)

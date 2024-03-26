@@ -21,12 +21,12 @@
   "publisher": "blankeos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drcmda/poimandres-theme/issues"
+    "url": "https://github.com/blankeos/blankeos-zen-theme/issues"
   },
-  "homepage": "https://github.com/drcmda/poimandres-theme#readme",
+  "homepage": "https://github.com/blankeos/blankeos-zen-theme#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drcmda/poimandres-theme.git"
+    "url": "git+https://github.com/blankeos/blankeos-zen-theme.git"
   },
   "engines": {
     "vscode": "^1.54.0"
